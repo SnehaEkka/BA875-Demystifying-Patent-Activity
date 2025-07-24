@@ -1,4 +1,5 @@
 **Project Summary: Patents, Innovation, and Company Performance**
+
 This project investigates the relationship between a company's internal drivers, patents, and its overall performance.
 
 **Data Sources:**
