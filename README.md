@@ -15,6 +15,12 @@ This project investigates the relationship between a company’s internal innova
 - Quantify the effect of patent characteristics (year, type, industry) on company innovation output.
 - Analyze external influences including competition, regulatory pressures, and consumer adoption.
 
+## Tableau Dashboard
+
+Here’s a snapshot of the interactive Tableau dashboard built to explore flight disruptions and delay patterns:
+
+![Flight Disruptions Tableau Dashboard](https://github.com/SnehaEkka/BA875-Demystifying-Patent-Activity/blob/main/patent-activity-dashboard.png)
+
 ## Analysis Overview
 
 - **Regression Models:**  
@@ -60,4 +66,5 @@ This project investigates the relationship between a company’s internal innova
   - Sneha Ekka
 
 ## Additional Resources
-- 📊 [Project Presentation Deck](https://www.canva.com/design/DAGEB5LlB84/Di1UATQ8UfilIrRj47f1nA/view?utm_content=DAGEB5LlB84&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h22e9e9ffc1)
+- [Project Presentation Deck](https://www.canva.com/design/DAGEB5LlB84/Di1UATQ8UfilIrRj47f1nA/view?utm_content=DAGEB5LlB84&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h22e9e9ffc1)
+- Explore the full interactive dashboard here: [View Tableau Dashboard](https://public.tableau.com/shared/K5DK2NT6R?:display_count=n&:origin=viz_share_link)
