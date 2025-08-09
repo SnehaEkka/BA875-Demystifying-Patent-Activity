@@ -1,6 +1,8 @@
 # Demystifying Patent Activity: The Link between Innovation and Company Performance
 #### *"Exploring the influence of R&D investment and patents on business outcomes across industries"*
 
+![Flight Disruptions Tableau Dashboard](https://github.com/SnehaEkka/BA875-Demystifying-Patent-Activity/blob/main/patent-activity-dashboard.png)
+
 ## About
 This project investigates the relationship between a company’s internal innovation drivers—such as R&D spending and patent activity—and financial performance. Using detailed datasets from Compustat/WRDS and patent records, we quantify how different innovation strategies impact profitability, patent output, and competitive positioning.
 
@@ -14,12 +16,6 @@ This project investigates the relationship between a company’s internal innova
 - Assess how R&D expenditure and patenting activity drive changes in Return on Assets (ROA).
 - Quantify the effect of patent characteristics (year, type, industry) on company innovation output.
 - Analyze external influences including competition, regulatory pressures, and consumer adoption.
-
-## Tableau Dashboard
-
-Here’s a snapshot of the interactive Tableau dashboard built to explore flight disruptions and delay patterns:
-
-![Flight Disruptions Tableau Dashboard](https://github.com/SnehaEkka/BA875-Demystifying-Patent-Activity/blob/main/patent-activity-dashboard.png)
 
 ## Analysis Overview
 
